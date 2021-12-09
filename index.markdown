@@ -1,12 +1,10 @@
 ---
 layout: home
-title: Welcome
 permalink: /
 ---
+![Cricket at Buckfastleigh](../media/cricket01.png)
 
-Welcome to this simple website for Buckfastleigh Cricket Club.
-
-We play social cricket against other local teams in south Devon. Training is usually held on a Monday from May to August, with games on weekday evenings and Sundays. See the fixtures page for 2022's fixtures.
+Buckfastleigh Cricket Club play social cricket against other local teams in south Devon. Training is usually held on a Monday from May to August, with games on weekday evenings and Sundays. See the fixtures page for 2022's fixtures.
 
 If you're interested in joining, or want to find out more, please contact us at:
 
