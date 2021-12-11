@@ -23,7 +23,7 @@ email: hello@buckfastleighcc.uk
 description: >- # this means to ignore newlines until "baseurl:"
   Buckfastleigh Cricket Club - social cricket club for the town of Buckfastleigh. All are welcome.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "/Welcome/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
